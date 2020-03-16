@@ -14,6 +14,6 @@
   <br>
   <br>
   <h2>Community Involvement</h2>
-  <p>We have recently partnered with Welcoming Newcomers, a charity dedicated to assist those new to the community, the province, or Canada. Local school information, accessing government services or just providing a welcoming space to read -- you will find here. Get more information and links to services outside the libray.</p>
+  <p>We have recently partnered with Welcoming Newcomers, a charity dedicated to assist those new to the community, the province, or Canada. Local school information, accessing government services or just providing a welcoming space to read -- you will find here. Get more information and links to services outside the library.</p>
   
 
