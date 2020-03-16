@@ -4,7 +4,7 @@
   <br>
   <br>
   <h2>Events and Programs</h2>
-  <p>See the exciting events and programs we have planned for Markch! We have something for everyone.</p>
+  <p>See the exciting events and programs we have planned for March! We have something for everyone.</p>
   <br>
   <br>
   <br>
