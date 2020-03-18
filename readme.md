@@ -8,7 +8,7 @@
   <br>
   <br>
   <br>
-  <a href="Contacts.html"><h2>Contacting Us</h2></a>
+  <h2><a href="Contacts.html">Contacting Us</a></h2>
   <p>There are many ways to contact us - find the one that works best for you.</p>
   <br>
   <br>
